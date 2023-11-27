@@ -1,7 +1,54 @@
 body{
+    margin: 0;
     font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size: 50px;
 
 }
 .higlite{
     color: orange;
+}
+
+
+h2{
+    font-size: 40px;
+   
+
+}
+
+
+
+
+.half_with {
+ 
+    float: left;
+    margin-left: 38%;
+    padding-left: 1%;
+    padding-left: 2%;
+    margin-top: -25%;
+}
+.half_with img{
+    width: auto;
+}
+
+    
+.link-button{
+   color:chocolate;
+   border-style: solid;
+   border-radius: 40%;
+   background-color: aqua;
+}
+.half-width{
+    text-align: right;
+    margin-left: -2px;
+    margin-top: 69px;
+    
+    font-family: initial;
+    text-align-last: center;;
+}
+.hlaf-with img {
+    width: 30%;
+    margin-left: 131px;
 }
